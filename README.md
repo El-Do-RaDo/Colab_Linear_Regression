@@ -7,3 +7,5 @@ Linear regression is a linear approach to modelling the relationship between a d
 Linear regression is an approach to modeling the relationship between the dependent variable y and one or more explanatory variables denoted X.
 
 For example, in a simple regression problem (a single x and a single y), the form of the model would be: y = B0 + B1*x
+
+<img src="https://miro.medium.com/max/2872/1*k2bLmeYIG7z7dCyxADedhQ.png">
